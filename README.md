@@ -25,3 +25,10 @@
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
+### 📊 Github Stats:
+
+<div>
+  <img align="center" 
+  width="45%" src="https://github-readme-stats.vercel.app/api?username=ortizjavi&bg_color=0D1117&title_color=00AFEC&text_color=fff&show_icons=true" alt="ortizjavi - github - stats" />
+</div>
